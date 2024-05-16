@@ -23,4 +23,8 @@ class Presenter(private val activity: MainActivity) {
         result += "\n\nОбщая стоимость корзины: ${priceValidator.validatePrice(productCard.getCartTotalCost())}"
         return result
     }
+
+    fun getCartTotalCost(): String {
+        return priceValidator.validatePrice(productCard.getCartTotalCost())
+    }
 }
