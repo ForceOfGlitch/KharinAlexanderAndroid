@@ -1,6 +1,6 @@
 package com.example.onlinekharinshop
 
-class PriceValidatorImpl: PriceValidator {
+class PriceValidatorImpl : PriceValidator {
     override fun validatePrice(price: Double): String {
         return if (price % 1 == 0.0) {
             price.toInt().toString()

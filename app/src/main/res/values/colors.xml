@@ -3,4 +3,18 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="gray">#919191</color>
+    <color name="colorPrimary">#6750A4</color>
+    <color name="colorPrimaryVariant">#EADDFF</color>
+    <color name="colorSecondary">#625B71</color>
+    <color name="colorSecondaryVariant">#E8DEF8</color>
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorSurface">#FEF7FF</color>
+    <color name="colorError">#B00020</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+    <color name="colorOnBackground">#000000</color>
+    <color name="colorOnSurface">#1D1B20</color>
+    <color name="colorOnSurfaceVariant">#FFFFFF</color>
+    <color name="colorOnError">#FFFFFF</color>
+    <color name="pastelnoRozoviy">#FFD1DC</color>
 </resources>

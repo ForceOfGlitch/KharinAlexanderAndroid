@@ -2,6 +2,19 @@
     <string name="app_name">OnlineKharinShop</string>
     <string name="order_title">Оформление заказа</string>
     <string name="order_total_sum">Сумма заказа: </string>
+    <string name="order_total_sum_discount">Скидка: </string>
+    <string name="order_total_sum_without_discount">Сумма заказа без скидки: </string>
     <string name="order_user_num">Введине номер телефона</string>
     <string name="order_confirm_btn">Подтверждение заказа</string>
+    <string name="order_user_num_example">Пример: 8 987 654 32 10</string>
+    <string name="product_price_title">Цена: %s</string>
+    <string name="catalog_title">Каталог</string>
+    <string name="catalog_menu_title">Корзина</string>
+    <string name="product_card_menu_order">Оформить</string>
+    <string name="product_card_menu_delete">Очистить корзину</string>
+    <string name="product_card_sp">product_card_sp</string>
+    <string name="product_history_sp">product_history_sp</string>
+    <string name="product_card_sp_val">product_card_sp_val</string>
+    <string name="product_counter">%d</string>
+    <string name="product_info_title">Информация о продукте</string>
 </resources>
